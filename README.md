@@ -3,7 +3,7 @@
 ## Project Overview
 Implementation of Linear Regression using multiple mathematical approaches including Ordinary Least Squares (OLS), Singular Value Decomposition (SVD), and Gradient Descent optimization on the Life Expectancy dataset.
 
-**Authors:** Muhammad Azhar (24K-7606), Hamza Mughal (25K-7623)  
+**Group Members:** Muhammad Azhar (24K-7606), Hamza Mughal (25K-7623)  
 **Course:** Mathematical Foundation for Data AI
 
 ## Dataset
